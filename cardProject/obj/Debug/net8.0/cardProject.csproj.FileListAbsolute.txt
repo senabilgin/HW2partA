@@ -1,0 +1,17 @@
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/cardProject
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/cardProject.deps.json
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/cardProject.runtimeconfig.json
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/cardProject.dll
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/cardProject.pdb
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/bin/Debug/net8.0/Cards2.dll
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.csproj.AssemblyReference.cache
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.AssemblyInfoInputs.cache
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.AssemblyInfo.cs
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.csproj.CoreCompileInputs.cache
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProj.52535D87.Up2Date
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.dll
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/refint/cardProject.dll
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.pdb
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/cardProject.genruntimeconfig.cache
+/Users/senanurbilgin/Desktop/csc350h/cardProject/cardProject/obj/Debug/net8.0/ref/cardProject.dll
